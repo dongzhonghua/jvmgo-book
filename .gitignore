@@ -6,3 +6,6 @@ build/
 out/
 *.iml
 *.DS_Store
+/v1/code/java/example/gradle/wrapper/
+/v1/code/java/example/gradlew
+/v1/code/java/example/gradlew.bat
